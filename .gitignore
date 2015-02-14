@@ -1,0 +1,10 @@
+*.class
+*.classpath
+*.project
+
+.settings
+reports
+build.xml
+node_modules
+src
+plugin.yml
