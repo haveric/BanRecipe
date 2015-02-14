@@ -1,0 +1,1 @@
+This is an updated release of Relick's BanRecipe plugin: http://dev.bukkit.org/bukkit-plugins/banrecipe/
